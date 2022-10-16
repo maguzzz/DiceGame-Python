@@ -2,7 +2,7 @@ import random
 
 print("Rules: If you get a number bellow 5 you lose if its greater you win. \n")
 
-#Chose a name for the Player
+#Choose a name for the Player
 player = ""
 
 #if player Two has no name you will be called "Player2"
